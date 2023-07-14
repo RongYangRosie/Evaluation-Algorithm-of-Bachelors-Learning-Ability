@@ -1,0 +1,10 @@
+id,name,surfix,remark,maxnum
+1,个人照片,.jpg|.jpeg|.png|,,1
+2,本科成绩单(带教务处红章),.jpg|.jpeg|.png|.pdf|,1,6
+3,推免资格凭证,.jpg|.jpeg|.png|.pdf|,1,4
+4,学生证,.jpg|.jpeg|.png|.pdf|,1,4
+5,推荐信,.jpg|.jpeg|.png|.pdf|,,4
+6,英语四级(CET4)成绩单,.jpg|.jpeg|.png|.pdf|,1,4
+7,英语六级(CET6)成绩单,.jpg|.jpeg|.png|.pdf|,,4
+8,GRE成绩单,.jpg|.jpeg|.png|.pdf|,,2
+9,TOFEL成绩单,.jpg|.jpeg|.png|.pdf|,,2

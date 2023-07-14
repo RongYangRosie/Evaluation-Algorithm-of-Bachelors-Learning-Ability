@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/datasets/accept.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/db_university_free.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/db_university_free.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/honour.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/project.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/stu_base.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/stu_base.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/stu_honour.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/stu_project.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/stu_reexam_result.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/test.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/test.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/test.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/test.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/test.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/test1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/train.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/train.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/train.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/train.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/train.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datasets/train1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/processed_data/stu_reexam_result.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resume_process.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/resume_process.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/accept.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/process_apply.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/process_english.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/process_grades.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/process_honour1.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/process_nationlity.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/process_political.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/process_project.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/process_ranking.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/process_unversitylevel.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/resume_process.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/resume_process.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/resume_process.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/stu_base.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/scripts/stu_project.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/train.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/train.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/train1.csv" charset="GBK" />
+  </component>
+</project>
